@@ -9,6 +9,7 @@
 <project name="Euphoria-OS/android_packages_apps_UnifiedEmail" path="packages/apps/UnifiedEmail" remote="github" revision="lollipop" />
 <project name="Euphoria-OS/android_packages_apps_Camera2" path="packages/apps/Camera2" remote="github" revision="lollipop" />
 <project name="Euphoria-OS/android_packages_apps_Email" path="packages/apps/Email" remote="github" revision="lollipop" />
+<project name="CyanogenMod/android_frameworks_opt_connectivity" path="frameworks/opt/connectivity" remote="github" revision="cm-13.0" />
 -->
 <project name="wolverine2k/android_device_oppo_find5" path="device/oppo/find5" remote="github" revision="cm-13.0" />
 <project name="wolverine2k/android_kernel_oppo_n1" path="kernel/oppo/n1" remote="github" revision="cm-13.0" />
@@ -16,6 +17,5 @@
 <project name="CyanogenMod/android_device_oppo_msm8974-common" path="device/oppo/msm8974-common" remote="github" revision="cm-13.0" />
 <project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-13.0" />
 <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="cm-13.0" />
-<project name="CyanogenMod/android_frameworks_opt_connectivity" path="frameworks/opt/connectivity" remote="github" revision="cm-13.0" />
 </manifest>
 
