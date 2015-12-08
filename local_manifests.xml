@@ -13,9 +13,9 @@
 -->
 <project name="wolverine2k/android_device_oppo_find5" path="device/oppo/find5" remote="github" revision="cm-13.0" />
 <project name="wolverine2k/android_kernel_oppo_n1" path="kernel/oppo/n1" remote="github" revision="cm-13.0" />
+<project name="wolverine2k/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-13.0" />
 <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0" />
 <project name="CyanogenMod/android_device_oppo_msm8974-common" path="device/oppo/msm8974-common" remote="github" revision="cm-13.0" />
-<project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-13.0" />
 <project name="CyanogenMod/android_device_oppo_apq8064-common" path="device/oppo/apq8064-common" remote="github" revision="cm-13.0" />
 <project name="CyanogenMod/android_frameworks_base" path="frameworks/base" remote="github" revision="cm-13.0" />
 
