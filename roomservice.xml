@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="wolverine2k/android_device_oppo_find5_pacman" path="device/oppo/find5" remote="github" revision="pac-6.0" />
+  <project name="wolverine2k/android_device_oppo_find5" path="device/oppo/find5" remote="github" revision="liquid-6.0" />
   <project name="wuxianlin/android_kernel_oppo_n1" path="kernel/oppo/n1" remote="github" revision="cm-13.0" />
 <!--  <remove-project name="CyanogenMod/android_frameworks_base" />
   <project name="CyanogenMod/android_frameworks_base" path="frameworks/base" remote="github" revision="cm-13.0" />
