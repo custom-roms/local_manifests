@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="wolverine2k/android_device_oppo_find5_pacman" path="device/oppo/find5" remote="github" revision="pac-6.0" />
-  <project name="wuxianlin/android_kernel_oppo_n1" path="kernel/oppo/n1" remote="github" revision="cm-13.0" />
-<!--  <remove-project name="CyanogenMod/android_frameworks_base" />
-  <project name="CyanogenMod/android_frameworks_base" path="frameworks/base" remote="github" revision="cm-13.0" />
-  <remove-project name="CyanogenMod/external_android_support-prebuilt" />
-  <project name="CyanogenMod/external_android_support-prebuilt" path="external/android/support-prebuilt" remote="github" revision="cm-13.0" /> -->
-  <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="cm-13.0" />
+  <project name="wolverine2k/android_kernel_oppo_n1" path="kernel/oppo/n1" remote="github" revision="lvm-cm-13.0" />
   <project name="wuxianlin/android_device_oppo_apq8064-common" path="device/oppo/apq8064-common" remote="github" revision="cm-13.0" />
-  <project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-13.0"/>
-  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0"/>
+  <project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0" />
+  <project name="Pinky-Inky-and-Clyde/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="cm-13.0" />
+  <project name="wolverine2k/android_device_oppo_find5" path="device/oppo/find5" remote="github" revision="pac-6.0" />
 </manifest>
-
