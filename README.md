@@ -1,2 +1,2 @@
 # localmanifest
-localmanifest for Oppo Find5
+local_manifests for Oppo Find5
