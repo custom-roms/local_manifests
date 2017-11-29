@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="wolverine2k/android_kernel_oppo_n1" path="kernel/oppo/n1" remote="github" revision="cm-14.1" />
-  <project name="wuxianlin/android_device_oppo_apq8064-common" path="device/oppo/apq8064-common" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
-  <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="cm-14.1" />
-  <project name="wolverine2k/android_device_oppo_find5" path="device/oppo/find5" remote="github" revision="cm-14.0" />
-  <!--<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" /> -->
+  <project name="find5/android_kernel_oppo_n1" path="kernel/oppo/n1" remote="github" revision="aokp-7" />
+  <project name="find5/device_oppo_apq8064-common" path="device/oppo/apq8064-common" remote="github" revision="aokp-7" />
+  <project name="LineageOS/android_device_oppo_common" path="device/oppo/common" remote="github" revision="lineage-15.0" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.0" />
+  <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="lineage-15.0" />
+  <project name="find5/device_oppo_find5" path="device/oppo/find5" remote="github" revision="aokp-7" />
 </manifest>
